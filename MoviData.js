@@ -1,0 +1,15 @@
+ const MoviData = [
+    { name: 'Vyakti ani Vlli'  , cover: 'https://th.bing.com/th/id/R.ac17dba08fe86970a45e597127932588?rik=rCmnZKAeu8nZrg&riu=http%3a%2f%2fniknacks.in%2fwp-content%2fuploads%2f2019%2f01%2fBhaai-Vyakti-Kee-Valli-Marathi-Movie-Cast.jpg&ehk=YKnNvPAJrUVugekR4dVCjBOzszZJWlzYCIX7%2b%2fLs5c8%3d&risl=&pid=ImgRaw&r=0' , rating: 4.5 , link: 'https://www.primevideo.com/?ref_=dvm_pds_amz_in_as_s_b_brand28_mkw_fQQR2NKb-dc&mrntrk=pcrid_75454108097583_slid__pgrid_1207264149347696_pgeo_156629_x__ptid_kwd-75454277835074:loc-90'},
+    
+    { name:'Chandramukhi', cover:'https://th.bing.com/th/id/R.9dee801f7724a28f2ef5b391368c2998?rik=aWREXWhZuNLu4w&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fen%2fthumb%2fd%2fdd%2fChandramukhi_Marathi_film.jpeg%2f220px-Chandramukhi_Marathi_film.jpeg&ehk=GpTsQNuKs7dQCwDLzUMFl5bNclEdRpRK58%2fgPjNNjo4%3d&risl=&pid=ImgRaw&r=0' , rating: 4.4 , link: 'https://www.primevideo.com/?ref_=dvm_pds_amz_in_as_s_b_brand28_mkw_fQQR2NKb-dc&mrntrk=pcrid_75454108097583_slid__pgrid_1207264149347696_pgeo_156629_x__ptid_kwd-75454277835074:loc-90'},
+    
+    { name:'Lokmanya Ek Yugpurush', cover:'https://th.bing.com/th/id/R.58f9235b78c45405572fb740f46be813?rik=YuNJ9EJkCSIdPg&riu=http%3a%2f%2fwww.impawards.com%2fintl%2findia%2f2014%2fposters%2flokmanya_ek_yugpurush_ver11_xxlg.jpg&ehk=U1jPU66AEJUzp1eWtQ1sXP%2f%2b0v0BX0MPqtrSDf91CT0%3d&risl=&pid=ImgRaw&r=0' , rating: 4.6 , link: 'https://www.primevideo.com/?ref_=dvm_pds_amz_in_as_s_b_brand28_mkw_fQQR2NKb-dcmrntrk=pcrid_75454108097583_slid__pgrid_1207264149347696_pgeo_156629_x__ptid_kwd-75454277835074:loc-90', discription:'Lokmanya: Ek Yugpurush is a 2015 Indian biographical film directed by Om Raut and produced by Neena Raut Entertainment. The film is based on the life story of Bal Gangadhar Tilak - a social reformer and the freedom fighter of the Indian independence movement.'},
+
+    { name:'ShivajiRaja', cover:'https://lh5.googleusercontent.com/proxy/k0owj6pCI9xhr2Zst6H55z7KIcLVUdEmTDrmgAHPobfLeN-uvLbVMkLWQ0mo69wZx8lahUxibFK11zdqwv4s0PRtoHB8qETondIPzvHBcpSjrlam8TLYkp5-O2U160AaBYg=s0-d' , rating: 4.6 , link: 'https://www.primevideo.com/?ref_=dvm_pds_amz_in_as_s_b_brand28_mkw_fQQR2NKb-dcmrntrk=pcrid_75454108097583_slid__pgrid_1207264149347696_pgeo_156629_x__ptid_kwd-75454277835074:loc-90'},
+
+    { name:'Harishchadrachi factory', cover:'https://qph.fs.quoracdn.net/main-qimg-a7ec187df5e4877d3315b274d7e56a65-c' , rating: 4.6 , link: 'https://www.primevideo.com/?ref_=dvm_pds_amz_in_as_s_b_brand28_mkw_fQQR2NKb-dcmrntrk=pcrid_75454108097583_slid__pgrid_1207264149347696_pgeo_156629_x__ptid_kwd-75454277835074:loc-90'},
+    { name:'Natsamrat', cover:'https://th.bing.com/th/id/R.d6325e70c01113187c5c2f47bb887832?rik=ngv8t9DfoVzwaw&riu=http%3a%2f%2fs3.scoopwhoop.com%2fanj%2fMarathi%2f149780054.jpg&ehk=iHgcAA17SeuUD%2fc9jKw7eAqfgOkNziLOvhtcYhRCplA%3d&risl=&pid=ImgRaw&r=0' , rating: 4.6 , link: 'https://www.primevideo.com/?ref_=dvm_pds_amz_in_as_s_b_brand28_mkw_fQQR2NKb-dcmrntrk=pcrid_75454108097583_slid__pgrid_1207264149347696_pgeo_156629_x__ptid_kwd-75454277835074:loc-90'}
+
+
+ ]
+ export default MoviData;
